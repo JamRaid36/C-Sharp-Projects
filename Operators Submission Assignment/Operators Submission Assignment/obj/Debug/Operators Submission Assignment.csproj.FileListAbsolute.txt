@@ -1,0 +1,7 @@
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators Submission Assignment\Operators Submission Assignment\bin\Debug\Operators Submission Assignment.exe.config
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators Submission Assignment\Operators Submission Assignment\bin\Debug\Operators Submission Assignment.exe
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators Submission Assignment\Operators Submission Assignment\bin\Debug\Operators Submission Assignment.pdb
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators Submission Assignment\Operators Submission Assignment\obj\Debug\Operators Submission Assignment.csproj.AssemblyReference.cache
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators Submission Assignment\Operators Submission Assignment\obj\Debug\Operators Submission Assignment.csproj.CoreCompileInputs.cache
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators Submission Assignment\Operators Submission Assignment\obj\Debug\Operators Submission Assignment.exe
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators Submission Assignment\Operators Submission Assignment\obj\Debug\Operators Submission Assignment.pdb

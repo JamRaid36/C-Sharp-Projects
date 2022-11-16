@@ -1,0 +1,7 @@
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsSubmissionAssignment\ParsingEnumsSubmissionAssignment\bin\Debug\ParsingEnumsSubmissionAssignment.exe.config
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsSubmissionAssignment\ParsingEnumsSubmissionAssignment\bin\Debug\ParsingEnumsSubmissionAssignment.exe
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsSubmissionAssignment\ParsingEnumsSubmissionAssignment\bin\Debug\ParsingEnumsSubmissionAssignment.pdb
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsSubmissionAssignment\ParsingEnumsSubmissionAssignment\obj\Debug\ParsingEnumsSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsSubmissionAssignment\ParsingEnumsSubmissionAssignment\obj\Debug\ParsingEnumsSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsSubmissionAssignment\ParsingEnumsSubmissionAssignment\obj\Debug\ParsingEnumsSubmissionAssignment.exe
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsSubmissionAssignment\ParsingEnumsSubmissionAssignment\obj\Debug\ParsingEnumsSubmissionAssignment.pdb

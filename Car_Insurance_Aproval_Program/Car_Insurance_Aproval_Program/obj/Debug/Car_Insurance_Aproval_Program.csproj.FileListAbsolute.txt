@@ -1,0 +1,7 @@
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car_Insurance_Aproval_Program\Car_Insurance_Aproval_Program\bin\Debug\Car_Insurance_Aproval_Program.exe.config
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car_Insurance_Aproval_Program\Car_Insurance_Aproval_Program\bin\Debug\Car_Insurance_Aproval_Program.exe
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car_Insurance_Aproval_Program\Car_Insurance_Aproval_Program\bin\Debug\Car_Insurance_Aproval_Program.pdb
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car_Insurance_Aproval_Program\Car_Insurance_Aproval_Program\obj\Debug\Car_Insurance_Aproval_Program.csproj.AssemblyReference.cache
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car_Insurance_Aproval_Program\Car_Insurance_Aproval_Program\obj\Debug\Car_Insurance_Aproval_Program.csproj.CoreCompileInputs.cache
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car_Insurance_Aproval_Program\Car_Insurance_Aproval_Program\obj\Debug\Car_Insurance_Aproval_Program.exe
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car_Insurance_Aproval_Program\Car_Insurance_Aproval_Program\obj\Debug\Car_Insurance_Aproval_Program.pdb

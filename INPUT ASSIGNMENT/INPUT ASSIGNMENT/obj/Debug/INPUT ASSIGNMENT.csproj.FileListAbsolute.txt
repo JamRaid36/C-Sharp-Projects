@@ -1,0 +1,7 @@
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\INPUT ASSIGNMENT\INPUT ASSIGNMENT\bin\Debug\INPUT ASSIGNMENT.exe.config
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\INPUT ASSIGNMENT\INPUT ASSIGNMENT\bin\Debug\INPUT ASSIGNMENT.exe
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\INPUT ASSIGNMENT\INPUT ASSIGNMENT\bin\Debug\INPUT ASSIGNMENT.pdb
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\INPUT ASSIGNMENT\INPUT ASSIGNMENT\obj\Debug\INPUT ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\INPUT ASSIGNMENT\INPUT ASSIGNMENT\obj\Debug\INPUT ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\INPUT ASSIGNMENT\INPUT ASSIGNMENT\obj\Debug\INPUT ASSIGNMENT.exe
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\INPUT ASSIGNMENT\INPUT ASSIGNMENT\obj\Debug\INPUT ASSIGNMENT.pdb

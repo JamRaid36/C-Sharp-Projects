@@ -1,0 +1,7 @@
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArrarSubmisionAssignment\ConsoleAppArrarSubmisionAssignment\bin\Debug\ConsoleAppArrarSubmisionAssignment.exe.config
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArrarSubmisionAssignment\ConsoleAppArrarSubmisionAssignment\bin\Debug\ConsoleAppArrarSubmisionAssignment.exe
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArrarSubmisionAssignment\ConsoleAppArrarSubmisionAssignment\bin\Debug\ConsoleAppArrarSubmisionAssignment.pdb
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArrarSubmisionAssignment\ConsoleAppArrarSubmisionAssignment\obj\Debug\ConsoleAppArrarSubmisionAssignment.csproj.AssemblyReference.cache
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArrarSubmisionAssignment\ConsoleAppArrarSubmisionAssignment\obj\Debug\ConsoleAppArrarSubmisionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArrarSubmisionAssignment\ConsoleAppArrarSubmisionAssignment\obj\Debug\ConsoleAppArrarSubmisionAssignment.exe
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArrarSubmisionAssignment\ConsoleAppArrarSubmisionAssignment\obj\Debug\ConsoleAppArrarSubmisionAssignment.pdb

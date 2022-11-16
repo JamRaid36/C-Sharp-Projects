@@ -1,0 +1,7 @@
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\STRUCT ASSIGNMENT\STRUCT ASSIGNMENT\bin\Debug\STRUCT ASSIGNMENT.exe.config
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\STRUCT ASSIGNMENT\STRUCT ASSIGNMENT\bin\Debug\STRUCT ASSIGNMENT.exe
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\STRUCT ASSIGNMENT\STRUCT ASSIGNMENT\bin\Debug\STRUCT ASSIGNMENT.pdb
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\STRUCT ASSIGNMENT\STRUCT ASSIGNMENT\obj\Debug\STRUCT ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\STRUCT ASSIGNMENT\STRUCT ASSIGNMENT\obj\Debug\STRUCT ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\STRUCT ASSIGNMENT\STRUCT ASSIGNMENT\obj\Debug\STRUCT ASSIGNMENT.exe
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\STRUCT ASSIGNMENT\STRUCT ASSIGNMENT\obj\Debug\STRUCT ASSIGNMENT.pdb

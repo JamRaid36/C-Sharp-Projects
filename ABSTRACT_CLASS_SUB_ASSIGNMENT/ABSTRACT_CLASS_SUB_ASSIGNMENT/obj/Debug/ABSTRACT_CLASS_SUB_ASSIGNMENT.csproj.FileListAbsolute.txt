@@ -1,0 +1,7 @@
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ABSTRACT_CLASS_SUB_ASSIGNMENT\ABSTRACT_CLASS_SUB_ASSIGNMENT\bin\Debug\ABSTRACT_CLASS_SUB_ASSIGNMENT.exe.config
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ABSTRACT_CLASS_SUB_ASSIGNMENT\ABSTRACT_CLASS_SUB_ASSIGNMENT\bin\Debug\ABSTRACT_CLASS_SUB_ASSIGNMENT.exe
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ABSTRACT_CLASS_SUB_ASSIGNMENT\ABSTRACT_CLASS_SUB_ASSIGNMENT\bin\Debug\ABSTRACT_CLASS_SUB_ASSIGNMENT.pdb
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ABSTRACT_CLASS_SUB_ASSIGNMENT\ABSTRACT_CLASS_SUB_ASSIGNMENT\obj\Debug\ABSTRACT_CLASS_SUB_ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ABSTRACT_CLASS_SUB_ASSIGNMENT\ABSTRACT_CLASS_SUB_ASSIGNMENT\obj\Debug\ABSTRACT_CLASS_SUB_ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ABSTRACT_CLASS_SUB_ASSIGNMENT\ABSTRACT_CLASS_SUB_ASSIGNMENT\obj\Debug\ABSTRACT_CLASS_SUB_ASSIGNMENT.exe
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ABSTRACT_CLASS_SUB_ASSIGNMENT\ABSTRACT_CLASS_SUB_ASSIGNMENT\obj\Debug\ABSTRACT_CLASS_SUB_ASSIGNMENT.pdb

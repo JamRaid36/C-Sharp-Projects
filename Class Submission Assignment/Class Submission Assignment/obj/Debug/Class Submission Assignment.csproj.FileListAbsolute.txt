@@ -1,0 +1,7 @@
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Class Submission Assignment\Class Submission Assignment\bin\Debug\Class Submission Assignment.exe.config
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Class Submission Assignment\Class Submission Assignment\bin\Debug\Class Submission Assignment.exe
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Class Submission Assignment\Class Submission Assignment\bin\Debug\Class Submission Assignment.pdb
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Class Submission Assignment\Class Submission Assignment\obj\Debug\Class Submission Assignment.csproj.AssemblyReference.cache
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Class Submission Assignment\Class Submission Assignment\obj\Debug\Class Submission Assignment.csproj.CoreCompileInputs.cache
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Class Submission Assignment\Class Submission Assignment\obj\Debug\Class Submission Assignment.exe
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Class Submission Assignment\Class Submission Assignment\obj\Debug\Class Submission Assignment.pdb

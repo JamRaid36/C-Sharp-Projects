@@ -1,0 +1,7 @@
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ACME ACCOUNTING\ACME ACCOUNTING\bin\Debug\ACME ACCOUNTING.exe.config
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ACME ACCOUNTING\ACME ACCOUNTING\bin\Debug\ACME ACCOUNTING.exe
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ACME ACCOUNTING\ACME ACCOUNTING\bin\Debug\ACME ACCOUNTING.pdb
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ACME ACCOUNTING\ACME ACCOUNTING\obj\Debug\ACME ACCOUNTING.csproj.AssemblyReference.cache
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ACME ACCOUNTING\ACME ACCOUNTING\obj\Debug\ACME ACCOUNTING.csproj.CoreCompileInputs.cache
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ACME ACCOUNTING\ACME ACCOUNTING\obj\Debug\ACME ACCOUNTING.exe
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ACME ACCOUNTING\ACME ACCOUNTING\obj\Debug\ACME ACCOUNTING.pdb

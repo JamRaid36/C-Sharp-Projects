@@ -1,0 +1,7 @@
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console App Strings and Integers\Console App Strings and Integers\bin\Debug\Console App Strings and Integers.exe.config
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console App Strings and Integers\Console App Strings and Integers\bin\Debug\Console App Strings and Integers.exe
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console App Strings and Integers\Console App Strings and Integers\bin\Debug\Console App Strings and Integers.pdb
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console App Strings and Integers\Console App Strings and Integers\obj\Debug\Console App Strings and Integers.csproj.AssemblyReference.cache
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console App Strings and Integers\Console App Strings and Integers\obj\Debug\Console App Strings and Integers.csproj.CoreCompileInputs.cache
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console App Strings and Integers\Console App Strings and Integers\obj\Debug\Console App Strings and Integers.exe
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console App Strings and Integers\Console App Strings and Integers\obj\Debug\Console App Strings and Integers.pdb

@@ -1,0 +1,7 @@
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Package-Shipping-Quote\Package-Shipping-Quote\bin\Debug\Package-Shipping-Quote.exe.config
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Package-Shipping-Quote\Package-Shipping-Quote\bin\Debug\Package-Shipping-Quote.exe
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Package-Shipping-Quote\Package-Shipping-Quote\bin\Debug\Package-Shipping-Quote.pdb
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Package-Shipping-Quote\Package-Shipping-Quote\obj\Debug\Package-Shipping-Quote.csproj.AssemblyReference.cache
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Package-Shipping-Quote\Package-Shipping-Quote\obj\Debug\Package-Shipping-Quote.csproj.CoreCompileInputs.cache
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Package-Shipping-Quote\Package-Shipping-Quote\obj\Debug\Package-Shipping-Quote.exe
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Package-Shipping-Quote\Package-Shipping-Quote\obj\Debug\Package-Shipping-Quote.pdb

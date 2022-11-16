@@ -1,0 +1,7 @@
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Calling_Methods_Submission_Assignment\Calling_Methods_Submission_Assignment\bin\Debug\Calling_Methods_Submission_Assignment.exe.config
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Calling_Methods_Submission_Assignment\Calling_Methods_Submission_Assignment\bin\Debug\Calling_Methods_Submission_Assignment.exe
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Calling_Methods_Submission_Assignment\Calling_Methods_Submission_Assignment\bin\Debug\Calling_Methods_Submission_Assignment.pdb
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Calling_Methods_Submission_Assignment\Calling_Methods_Submission_Assignment\obj\Debug\Calling_Methods_Submission_Assignment.csproj.AssemblyReference.cache
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Calling_Methods_Submission_Assignment\Calling_Methods_Submission_Assignment\obj\Debug\Calling_Methods_Submission_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Calling_Methods_Submission_Assignment\Calling_Methods_Submission_Assignment\obj\Debug\Calling_Methods_Submission_Assignment.exe
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Calling_Methods_Submission_Assignment\Calling_Methods_Submission_Assignment\obj\Debug\Calling_Methods_Submission_Assignment.pdb

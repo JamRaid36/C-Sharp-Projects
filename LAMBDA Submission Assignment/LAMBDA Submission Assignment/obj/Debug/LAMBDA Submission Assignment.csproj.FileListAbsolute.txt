@@ -1,0 +1,7 @@
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA Submission Assignment\LAMBDA Submission Assignment\bin\Debug\LAMBDA Submission Assignment.exe.config
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA Submission Assignment\LAMBDA Submission Assignment\bin\Debug\LAMBDA Submission Assignment.exe
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA Submission Assignment\LAMBDA Submission Assignment\bin\Debug\LAMBDA Submission Assignment.pdb
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA Submission Assignment\LAMBDA Submission Assignment\obj\Debug\LAMBDA Submission Assignment.csproj.AssemblyReference.cache
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA Submission Assignment\LAMBDA Submission Assignment\obj\Debug\LAMBDA Submission Assignment.csproj.CoreCompileInputs.cache
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA Submission Assignment\LAMBDA Submission Assignment\obj\Debug\LAMBDA Submission Assignment.exe
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA Submission Assignment\LAMBDA Submission Assignment\obj\Debug\LAMBDA Submission Assignment.pdb
