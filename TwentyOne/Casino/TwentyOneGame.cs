@@ -98,7 +98,7 @@ namespace Casino.TwentyOne
                         Console.WriteLine("{0} Busted! You lose your bet of {1}. Your balance is now {2}.", player.Name, Bets[player], player.Balance);
                         Console.WriteLine("Do you want to play again?");
                         answer = Console.ReadLine().ToLower();
-                        if (answer == "yes" || answer == "yeah")
+                        if (answer == "yes" || answer == "yeah" || answer == "y")
                         {
                             player.isActivelyPlaying = true;
                             return;
@@ -151,17 +151,18 @@ namespace Casino.TwentyOne
                 }
                 else if (playerWon == true)
                 {
-                    Console.WriteLine("{0} won {1}! Your balance is now {2}.", player.Name, Bets[player], player.Balance);
+                    Console.WriteLine("{0} won {1}!.", player.Name, Bets[player]);
                     player.Balance += (Bets[player] * 2);
                     Dealer.Balance -= Bets[player];
                 }
                 else
                 {
-                    Console.WriteLine("Dealer wins {0}! Your balance is now {1}.", Bets[player], player.Balance);
+                    Console.WriteLine("Dealer wins {0}!", Bets[player]);
+                    Dealer.Balance += Bets[player];
                 }
                 Console.WriteLine("Play again?"); 
                 string answer = Console.ReadLine().ToLower();
-                if (answer == "yes" || answer == "yeah")
+                if (answer == "yes" || answer == "yeah" || answer == "y")
                 {
                     player.isActivelyPlaying = true;
                 }
