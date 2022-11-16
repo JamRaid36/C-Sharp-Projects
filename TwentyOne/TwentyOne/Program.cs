@@ -55,6 +55,12 @@ namespace TwentyOne
                     {
                         game.Play();
                     }
+                    catch (FraudException)
+                    {
+                        Console.WriteLine("Scurity! Kick this person out.");
+                        Console.ReadLine();
+                        return;
+                    }
                     catch (Exception)
                     {
                         Console.WriteLine("An error occured. Please contact your system administrator.");

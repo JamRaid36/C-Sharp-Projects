@@ -1,0 +1,7 @@
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TRY CATCH ASSIGNMENT\TRY CATCH ASSIGNMENT\bin\Debug\TRY CATCH ASSIGNMENT.exe.config
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TRY CATCH ASSIGNMENT\TRY CATCH ASSIGNMENT\bin\Debug\TRY CATCH ASSIGNMENT.exe
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TRY CATCH ASSIGNMENT\TRY CATCH ASSIGNMENT\bin\Debug\TRY CATCH ASSIGNMENT.pdb
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TRY CATCH ASSIGNMENT\TRY CATCH ASSIGNMENT\obj\Debug\TRY CATCH ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TRY CATCH ASSIGNMENT\TRY CATCH ASSIGNMENT\obj\Debug\TRY CATCH ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TRY CATCH ASSIGNMENT\TRY CATCH ASSIGNMENT\obj\Debug\TRY CATCH ASSIGNMENT.exe
+C:\Users\guita\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TRY CATCH ASSIGNMENT\TRY CATCH ASSIGNMENT\obj\Debug\TRY CATCH ASSIGNMENT.pdb
