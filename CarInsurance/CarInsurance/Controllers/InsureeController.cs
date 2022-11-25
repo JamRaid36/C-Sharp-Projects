@@ -85,6 +85,7 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                GetQuote(table);
                 db.Entry(table).State = EntityState.Modified;
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -132,7 +133,7 @@ namespace CarInsurance.Controllers
         public ActionResult GetQuote(Table table)
         {
             table.Quote = 50;
-            var dob = Convert.ToDateTime(table.DateOfBirth);
+            var dob = Convert.ToDateTime(table.DateOfBirth); 
 
            
             var age = DateTime.Now.Year - dob.Year;
@@ -165,7 +166,7 @@ namespace CarInsurance.Controllers
                 table.Quote += 25;
             }
 
-            if (table.CarModel.ToLower() == "911 Carrera")
+            if (table.CarModel.ToLower() == "911 carrera")
             {
                 table.Quote += 25;
             }
