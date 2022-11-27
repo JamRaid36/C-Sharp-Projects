@@ -7,9 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WebApplication1 {
-    
-    
-    public partial class ViewSwitcher {
+namespace WebApplication1
+{
+
+
+    public partial class ViewSwitcher
+    {
     }
 }
